@@ -51,7 +51,7 @@
     "gl": "^4.9.0",
     "morgan": "^1.10.0",
     "node-cache": "^5.1.2",
-    "nodemon": "^2.0.7",
+    "nodemon": "^2.0.12",
     "object-assign-deep": "^0.4.0",
     "pg": "^8.6.0",
     "punycode": "^2.1.1",
